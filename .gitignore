@@ -1,0 +1,6 @@
+dist
+server/chats.json
+server/users.json
+*.xcuserdatad
+.DS_STORE
+*.pem
