@@ -1,6 +1,6 @@
 dist
 server/chats.json
 server/users.json
-*.xcuserdatad
+xcuserdata/
 .DS_STORE
 *.pem
